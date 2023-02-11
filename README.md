@@ -52,11 +52,10 @@
 <br/>
 <br/>  
   <!--Github -->
-<img align="left" width="47%" height="300px" alt="DavidSitompul Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidSitompul&theme=prussian" />
-<img align="left" width="47%" height="300px" alt="DavidSitompul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSitompul&layout=compact&theme=prussian" />  
+<img align="left" width="48%" alt="DavidSitompul Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidSitompul&theme=prussian" />
+<img align="left" width="48%" alt="DavidSitompul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSitompul&layout=compact&theme=prussian" />  
 
 ### 🔍 Find me at
-
 <p>
   <a href="https://www.instagram.com/davidsitompull_/" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
