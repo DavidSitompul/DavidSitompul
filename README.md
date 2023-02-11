@@ -52,8 +52,8 @@
 <br/>
 <br/>  
   <!--Github -->
-<img align="left" width="48%" alt="DavidSitompul Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidSitompul&theme=prussian" />
-<img align="left" width="48%" alt="DavidSitompul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSitompul&layout=compact&theme=prussian" />  
+<img align="left" width="47%" alt="DavidSitompul Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidSitompul&theme=prussian" />
+<img align="left" width="47%" alt="DavidSitompul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSitompul&layout=compact&theme=prussian" />  
 
 ### 🔍 Find me at
 <p>
