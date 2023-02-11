@@ -1,39 +1,68 @@
 <h3 align="center">
-  Welcome to Vid Tompul profile!
+  Hi There, I'm David Paul Sitompul
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=29F62D&center=true&vCenter=true&width=450&lines=Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia;Contributing+in+Hacktoberfest+2022" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0c9df7&center=true&vCenter=true&width=450&lines=Beginner+Frontend+Web+Developer;" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-<img align="center" alt="hacktoberfest" width="400px" style="margin:auto;" src="https://user-images.githubusercontent.com/100346233/199377903-785cc33b-2153-4bdf-96b6-db36b0715d1b.png"/>
-</p>
+### 💡 About me
+
+- 👨‍🎓 A College at University of Sumatera Utara
+- 💻 Interested in Programming
+- 🧠 Interested in Frontend web dev
+- 💥 Interested in Design Ui/Ux
+- 🎮 Playing Game is My hobby
+
+<br/>
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML 5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="CSS 3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<br/>
+<br/>
 
-<br>
-<br>
-<br>
+<img align="left" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<br/>
+<br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yahoo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSitompul&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<!-- design -->
+<img align="left" alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+<img align="left" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+<img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<br/>
+<br/>
 
+<!-- IDE -->
+
+<img align="left" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img align="left" alt="DavidSitompul Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidSitompul&theme=prussian" height="300px"/>
+
+<img alt="DavidSitompul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSitompul&theme=prussian" height="300px"/>
+
+<br/>
+<br/>
+<br/>
 
 ### 🔍 Find me at
 
-<p> 
-  <a href="https://www.linkedin.com/in/yahoo-garfield-manik-24b67b210/" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/yahoomanik/" target="blank">
+<p>
+
+  <a href="https://www.instagram.com/davidsitompull_/" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
+  </a>
 </p>
