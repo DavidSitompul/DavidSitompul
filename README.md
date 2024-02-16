@@ -9,7 +9,7 @@
 
 ### 💡 About me
 
-- 👨‍🎓 A College at University of Sumatera Utara
+- 👨‍🎓 Graduate from University of Sumatera Utara
 - 💻 Interested in Programming
 - 🧠 Interested in Frontend web dev
 - 💥 Interested in Design Ui/Ux
